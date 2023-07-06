@@ -39,8 +39,8 @@ A Search Engine made with Python and C to work as at CLI and as a telegram bot.
 	69485811004;Ava Allen;F;12/22/1992
 
 ## Telegram
-![Screenshot 1](imgs/Screenshot from 2023-07-06 15-11-20.png)
-![Screenshot 2](imgs/Screenshot from 2023-07-06 15-11-55.png)
-![Screenshot 3](imgs/Screenshot from 2023-07-06 15-13-06.png)
-![Screenshot 4](imgs/Screenshot from 2023-07-06 15-23-42.png)
+![Screenshot 1](imgs/1.png)
+![Screenshot 2](imgs/2.png)
+![Screenshot 3](imgs/3.png)
+![Screenshot 4](imgs/4.png)
 
