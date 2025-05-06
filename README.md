@@ -9,12 +9,11 @@ A Search Engine made with Python and C to work as CLI and as a telegram bot.
 ## Installation
 
 1. Clone the repository:
-	```bash
 	   git clone git@github.com:PauloLopez92/search_engine.git
-
+	
 ## CLI Usage
-	```bash
-	  ./searchEngine 
+	
+	./searchEngine 
 	Usage: program [-f filename] [ -c <ID number>]
 			or
 	Usage: program [-f filename] [ -n '<name>', -d DD/MM/YYYY ]
@@ -37,6 +36,7 @@ A Search Engine made with Python and C to work as CLI and as a telegram bot.
 	
 	./searchEngine -f ../databases/database.csv  -i 69485811004
 	69485811004;Ava Allen;F;12/22/1992
+ 	
 
 ## Telegram
 ![Screenshot 1](imgs/1.png)
